@@ -1,0 +1,18 @@
+
+/* Class = "IBUILabel"; text = "0.0"; ObjectID = "64O-rZ-Irw"; */
+"64O-rZ-Irw.text" = "0.0";
+
+/* Class = "IBUISegmentedControl"; Tg7-S0-WOc.segmentTitles[0] = "Morning"; ObjectID = "Tg7-S0-WOc"; */
+"Tg7-S0-WOc.segmentTitles[0]" = "Morning";
+
+/* Class = "IBUISegmentedControl"; Tg7-S0-WOc.segmentTitles[1] = "Evening"; ObjectID = "Tg7-S0-WOc"; */
+"Tg7-S0-WOc.segmentTitles[1]" = "Evening";
+
+/* Class = "IBUILabel"; text = "0.0"; ObjectID = "Xnr-5b-Hav"; */
+"Xnr-5b-Hav.text" = "0.0";
+
+/* Class = "IBUILabel"; text = "Comments:"; ObjectID = "qvg-iK-6Wo"; */
+"qvg-iK-6Wo.text" = "Comments:";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "wXJ-Y2-ViQ"; */
+"wXJ-Y2-ViQ.title" = "Root View Controller";

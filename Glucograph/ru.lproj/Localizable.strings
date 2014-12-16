@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Glucograph
+
+  Created by Sergey Seitov on 07.04.14.
+  Copyright (c) 2014 Sergey Seitov. All rights reserved.
+*/
+
+"week" = "неделя";
+"weeks" = "недель";
+"weeks " = "недели";
+"Morning" = "Утро";
+"Evening" = "Вечер";
+"Comment" = "Комментарий";
+"Type comments" = "Введите комментарий";
